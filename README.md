@@ -1,6 +1,6 @@
 This repo is no longer updated.  Abandoned Pathogen, replaced with Vundle on 6/2/2015.
 
-.vimrc is now maintained in https://github.com/bayendor/.dotfiles.git
+`.vimrc` is now maintained in https://github.com/bayendor/.dotfiles.git
 
 Installing from scratch:
 ```
